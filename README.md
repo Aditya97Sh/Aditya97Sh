@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Applications & Development
 - 🌱 I’m currently learning ...Python Django React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Just Message me 
 
 <!---
 Aditya97Sh/Aditya97Sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
